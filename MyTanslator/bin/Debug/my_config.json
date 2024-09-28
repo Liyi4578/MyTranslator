@@ -1,0 +1,7 @@
+{
+  "ProxySetting": {
+    "ProxyType": "CustomProxy",
+    "ProxyServerIP": "127.0.0.1",
+    "ProxyServerPort": "10809"
+  }
+}

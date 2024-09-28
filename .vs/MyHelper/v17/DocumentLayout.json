@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\csharp\\my_helper\\MyHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4C8A8C-98AC-4C67-AC9E-1FB916D5368B}|MyTanslator\\MyTanslator.csproj|d:\\programming\\csharp\\my_helper\\myhelper\\mytanslator\\src\\translatormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF4C8A8C-98AC-4C67-AC9E-1FB916D5368B}|MyTanslator\\MyTanslator.csproj|solutionrelative:mytanslator\\src\\translatormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4C8A8C-98AC-4C67-AC9E-1FB916D5368B}|MyTanslator\\MyTanslator.csproj|d:\\programming\\csharp\\my_helper\\myhelper\\mytanslator\\src\\translatormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4C8A8C-98AC-4C67-AC9E-1FB916D5368B}|MyTanslator\\MyTanslator.csproj|solutionrelative:mytanslator\\src\\translatormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4C8A8C-98AC-4C67-AC9E-1FB916D5368B}|MyTanslator\\MyTanslator.csproj|d:\\programming\\csharp\\my_helper\\myhelper\\mytanslator\\src\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4C8A8C-98AC-4C67-AC9E-1FB916D5368B}|MyTanslator\\MyTanslator.csproj|solutionrelative:mytanslator\\src\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4C8A8C-98AC-4C67-AC9E-1FB916D5368B}|MyTanslator\\MyTanslator.csproj|D:\\Programming\\csharp\\my_helper\\MyHelper\\mytanslator\\src\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4C8A8C-98AC-4C67-AC9E-1FB916D5368B}|MyTanslator\\MyTanslator.csproj|solutionrelative:mytanslator\\src\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4C8A8C-98AC-4C67-AC9E-1FB916D5368B}|MyTanslator\\MyTanslator.csproj|D:\\Programming\\csharp\\my_helper\\MyHelper\\mytanslator\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4C8A8C-98AC-4C67-AC9E-1FB916D5368B}|MyTanslator\\MyTanslator.csproj|solutionrelative:mytanslator\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Config.cs",
+              "DocumentMoniker": "D:\\Programming\\csharp\\my_helper\\MyHelper\\MyTanslator\\src\\Config.cs",
+              "RelativeDocumentMoniker": "MyTanslator\\src\\Config.cs",
+              "ToolTip": "D:\\Programming\\csharp\\my_helper\\MyHelper\\MyTanslator\\src\\Config.cs",
+              "RelativeToolTip": "MyTanslator\\src\\Config.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAYwGIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:13:29.722Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TranslatorMainForm.cs",
+              "DocumentMoniker": "D:\\Programming\\csharp\\my_helper\\MyHelper\\MyTanslator\\src\\TranslatorMainForm.cs",
+              "RelativeDocumentMoniker": "MyTanslator\\src\\TranslatorMainForm.cs",
+              "ToolTip": "D:\\Programming\\csharp\\my_helper\\MyHelper\\MyTanslator\\src\\TranslatorMainForm.cs",
+              "RelativeToolTip": "MyTanslator\\src\\TranslatorMainForm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T02:42:16.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TranslatorMainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Programming\\csharp\\my_helper\\MyHelper\\MyTanslator\\src\\TranslatorMainForm.cs",
+              "RelativeDocumentMoniker": "MyTanslator\\src\\TranslatorMainForm.cs",
+              "ToolTip": "D:\\Programming\\csharp\\my_helper\\MyHelper\\MyTanslator\\src\\TranslatorMainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MyTanslator\\src\\TranslatorMainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T02:42:14.35Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Translator.cs",
+              "DocumentMoniker": "D:\\Programming\\csharp\\my_helper\\MyHelper\\MyTanslator\\src\\Translator.cs",
+              "RelativeDocumentMoniker": "MyTanslator\\src\\Translator.cs",
+              "ToolTip": "D:\\Programming\\csharp\\my_helper\\MyHelper\\MyTanslator\\src\\Translator.cs",
+              "RelativeToolTip": "MyTanslator\\src\\Translator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:51:55.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\csharp\\my_helper\\MyHelper\\MyTanslator\\src\\Program.cs",
+              "RelativeDocumentMoniker": "MyTanslator\\src\\Program.cs",
+              "ToolTip": "D:\\Programming\\csharp\\my_helper\\MyHelper\\MyTanslator\\src\\Program.cs",
+              "RelativeToolTip": "MyTanslator\\src\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:22:11.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
