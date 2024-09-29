@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="MyTanslator.exe.manifest" size="9728">
+    <dependentAssembly dependencyType="install" codebase="MyTanslator.exe.manifest" size="10660">
       <assemblyIdentity name="MyTanslator.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LVttfKfS3M5wqPbAvXS+8x5Gaw/qKgo67JUiZM0PTPk=</dsig:DigestValue>
+        <dsig:DigestValue>tErW0BV+RGrnvI3/29PdpomCF1B/WeS6fxA8/Gdqk+8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
